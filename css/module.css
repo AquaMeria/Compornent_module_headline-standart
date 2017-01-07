@@ -1,0 +1,25 @@
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+┏┓
+┗■ INDEX
+
+|   01.見出し
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+
+/*--------------------
+    01.見出し
+--------------------*/
+.headline {
+    background-color: #fff;
+    clear: both;
+    margin-bottom:3rem;
+    overflow: hidden;
+    padding: 3rem;
+}
+.headline__title{
+    color:#24936E;
+    border-bottom: 1px solid #434343;
+    font-size: 3rem;
+    padding:0 2rem 2rem;
+}
