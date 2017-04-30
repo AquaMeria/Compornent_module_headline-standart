@@ -11,7 +11,9 @@
 |AndroidOS 5.0~|×|×|○|  
  
  
-## ディレクトリ構造  
+## ディレクトリ構造
+
+```html
  ルート  
 　├ [css] … サイトで使用するCSSファイル  
 　│　├ bootstrap.min.css … Bootstrapの標準CSS   
@@ -21,3 +23,4 @@
 　│　└ bootstrap.min.js … Bootstrapの標準JS    
 　│  
 　└ index.html
+ ```
